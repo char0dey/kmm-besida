@@ -1,2 +1,1 @@
-# kmm-besida
-kmm-websocket
+# Kotlin Multiplatform Mobile websocket example
